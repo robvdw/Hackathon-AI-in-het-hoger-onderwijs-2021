@@ -55,5 +55,9 @@ pip install yellowbrick --ignore-installed --prefix=~/JHL_installations/Python
 ## TO DISPLAY DATA in NOTEBOOK using matplotlib
 
 import matplotlib.pyplot as plt
+
 import numpy as np
+
 %matplotlib notebook
+
+
