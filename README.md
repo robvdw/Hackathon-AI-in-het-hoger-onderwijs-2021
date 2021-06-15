@@ -13,6 +13,8 @@ Each course receives its own instance of JupyterHub. Users who log in will be pr
 https://servicedesk.surfsara.nl/wiki/display/WIKI/JupyterHub+for+education
 
 
-# ML
+# PIP: How to install AI platforms / software
 
-![image](https://user-images.githubusercontent.com/684692/122037376-ce219400-cdd4-11eb-9132-4f1ce893d1f0.png)
+
+
+
