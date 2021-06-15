@@ -18,7 +18,14 @@ https://servicedesk.surfsara.nl/wiki/display/WIKI/JupyterHub+for+education
 ====> terminal
 
 ## TENSORFLOW
+https://www.tensorflow.org/install/pip?hl=sl
 pip install tensorflow  --ignore-installed --prefix=~/JHL_installations/Python
+pip show tensorflow
 
 ## PYTORCH
+https://pytorch.org/get-started/locally/
 pip install torch torchvision --ignore-installed --prefix=~/JHL_installations/Python
+
+## KERAS
+https://pypi.org/project/keras/
+pip install keras torchvision --ignore-installed --prefix=~/JHL_installations/Python
