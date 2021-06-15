@@ -72,4 +72,8 @@ import numpy as np
 
 %matplotlib notebook
 
+# [5] LOGGING SFTP (SSH): 
 
+https://userinfo.surfsara.nl/systems/lisa/user-guide/connecting-and-transferring-data#sftp
+
+allows for large file transfer 
