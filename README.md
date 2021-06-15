@@ -12,9 +12,21 @@ What is JupyterHub?
 JupyterHub provides a multiuser environment for Jupyter notebooks. The SURF JupyterHub service facilitates external courses, e.g. programming courses, and runs on our Lisa cluster.
 Each course receives its own instance of JupyterHub. Users who log in will be provided with their own Jupyter Notebook Server, where they can create, download, upload and run notebooks. The service provides functionality for teachers to easily share notebooks, data and installations with their students.
 
+## MANUAL
 
 https://servicedesk.surfsara.nl/wiki/display/WIKI/JupyterHub+for+education
 
+## STUDENT 
+
+https://servicedesk.surfsara.nl/wiki/display/WIKI/User+Manual+-+Student
+
+## TEACHER / JEDI
+
+https://servicedesk.surfsara.nl/wiki/display/WIKI/User+Manual+-+Teacher
+
+## FACS
+
+https://servicedesk.surfsara.nl/wiki/display/WIKI/JupyterHub+FAQ
 
 # PIP: How to install AI platforms / software
 
