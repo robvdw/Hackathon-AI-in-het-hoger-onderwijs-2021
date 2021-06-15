@@ -50,4 +50,10 @@ https://pypi.org/project/yellowbrick/
 pip install yellowbrick --ignore-installed --prefix=~/JHL_installations/Python
 
 
-# EXAMPLE + TEST ptyhon code
+# EXAMPLES: Python code to verify installed software
+
+## TO DISPLAY DATA in NOTEBOOK using matplotlib
+
+import matplotlib.pyplot as plt
+import numpy as np
+%matplotlib notebook
