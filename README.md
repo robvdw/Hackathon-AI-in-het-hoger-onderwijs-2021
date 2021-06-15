@@ -16,8 +16,9 @@ https://servicedesk.surfsara.nl/wiki/display/WIKI/JupyterHub+for+education
 # PIP: How to install AI platforms / software
 
 ====> terminal
-##TENSORFLOW
+
+## TENSORFLOW
 pip install tensorflow  --ignore-installed --prefix=~/JHL_installations/Python
 
-##PYTORCH
+## PYTORCH
 pip install torch torchvision --ignore-installed --prefix=~/JHL_installations/Python
