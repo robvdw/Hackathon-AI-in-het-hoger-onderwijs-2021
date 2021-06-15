@@ -23,19 +23,24 @@ https://servicedesk.surfsara.nl/wiki/display/WIKI/JupyterHub+for+education
 ## TENSORFLOW
 https://www.tensorflow.org/install/pip?hl=sl
 https://www.tensorflow.org/guide/data
+
 pip install tensorflow  --ignore-installed --prefix=~/JHL_installations/Python
+
 pip show tensorflow
 
 ## PYTORCH
 https://pytorch.org/get-started/locally/
+
 pip install torch torchvision --ignore-installed --prefix=~/JHL_installations/Python
 
 ## SciTech Learn
 https://pypi.org/project/scikit-learn/
+
 pip scikit-learn --ignore-installed --prefix=~/JHL_installations/Python
 
 ## KERAS
 https://pypi.org/project/keras/
+
 pip install keras torchvision --ignore-installed --prefix=~/JHL_installations/Python
 
 ## YELLOWBRICK
