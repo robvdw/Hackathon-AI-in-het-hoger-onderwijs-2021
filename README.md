@@ -33,3 +33,7 @@ pip install torch torchvision --ignore-installed --prefix=~/JHL_installations/Py
 ## KERAS
 https://pypi.org/project/keras/
 pip install keras torchvision --ignore-installed --prefix=~/JHL_installations/Python
+
+## SciTech Learn
+https://pypi.org/project/scikit-learn/
+pip scikit-learn --ignore-installed --prefix=~/JHL_installations/Python
