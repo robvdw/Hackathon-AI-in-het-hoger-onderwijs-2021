@@ -1,4 +1,4 @@
-# Hackathon AI in het hoger onderwijs 2021
+# [1] Hackathon AI in het hoger onderwijs 2021
 In teamverband bedenk je een AI-oplossing voor een casus in het hoger onderwijs. Stel een team samen van docenten, studenten en andere geïnteresseerden (6-8 personen) en meld je aan! De Hackathon wordt georganiseerd in samenwerking met de SURF SIG AI in Education en de Nederlandse AI Coalitie.
  
  https://versnellingsplan.nl/agenda/hackathon-ai/
@@ -6,7 +6,7 @@ In teamverband bedenk je een AI-oplossing voor een casus in het hoger onderwijs.
 Deze GitHub Repository is bedoeld voor de Hackathon Jedi Teachers. Bevat hulplijnen en tips om ML-coding te faciliteren via  SURF's JUPYTERHUB notebook webrowser interface.
 
 
-# JupyterHub for education
+# [2] JupyterHub for education
 
 What is JupyterHub?
 JupyterHub provides a multiuser environment for Jupyter notebooks. The SURF JupyterHub service facilitates external courses, e.g. programming courses, and runs on our Lisa cluster.
@@ -28,7 +28,7 @@ https://servicedesk.surfsara.nl/wiki/display/WIKI/User+Manual+-+Teacher
 
 https://servicedesk.surfsara.nl/wiki/display/WIKI/JupyterHub+FAQ
 
-# PIP: How to install AI platforms / software
+# [3] PIP: How to install AI platforms / software
 
 ====> terminal
 
@@ -62,7 +62,7 @@ https://pypi.org/project/yellowbrick/
 pip install yellowbrick --ignore-installed --prefix=~/JHL_installations/Python
 
 
-# EXAMPLES: Python code to verify installed software
+# [4] EXAMPLES: Python code to verify installed software
 
 ## TO DISPLAY DATA in NOTEBOOK using matplotlib
 
