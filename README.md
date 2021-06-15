@@ -3,7 +3,7 @@ In teamverband bedenk je een AI-oplossing voor een casus in het hoger onderwijs.
  
  https://versnellingsplan.nl/agenda/hackathon-ai/
  
-Deze GitHub Repository is bedoeld voor de Hackaton Jedi Teachers. Bevat hulplijnen en tips om ML-coding te faciliteren via  SURF's JUPYTERHUB notebook webrowser interface.
+Deze GitHub Repository is bedoeld voor de Hackathon Jedi Teachers. Bevat hulplijnen en tips om ML-coding te faciliteren via  SURF's JUPYTERHUB notebook webrowser interface.
 
 
 # JupyterHub for education
@@ -30,10 +30,19 @@ pip show tensorflow
 https://pytorch.org/get-started/locally/
 pip install torch torchvision --ignore-installed --prefix=~/JHL_installations/Python
 
+## SciTech Learn
+https://pypi.org/project/scikit-learn/
+pip scikit-learn --ignore-installed --prefix=~/JHL_installations/Python
+
 ## KERAS
 https://pypi.org/project/keras/
 pip install keras torchvision --ignore-installed --prefix=~/JHL_installations/Python
 
-## SciTech Learn
-https://pypi.org/project/scikit-learn/
-pip scikit-learn --ignore-installed --prefix=~/JHL_installations/Python
+## YELLOWBRICK
+Yellowbrick is a suite of visual analysis and diagnostic tools designed to facilitate machine learning with scikit-learn. 
+https://pypi.org/project/yellowbrick/
+
+pip install yellowbrick --ignore-installed --prefix=~/JHL_installations/Python
+
+
+# EXAMPLE + TEST ptyhon code
