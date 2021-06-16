@@ -45,7 +45,7 @@ https://pytorch.org/get-started/locally/
 
 pip install torch torchvision --ignore-installed --prefix=~/JHL_installations/Python
 
-## SciTech Learn
+## SciKit Learn
 https://pypi.org/project/scikit-learn/
 
 pip scikit-learn --ignore-installed --prefix=~/JHL_installations/Python
