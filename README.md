@@ -1,5 +1,3 @@
-![Machine-Learning-Example](https://user-images.githubusercontent.com/684692/122208846-1f4c8900-cea4-11eb-91bd-16898be039ca.png)
-
 # [1] Hackathon AI in het hoger onderwijs 2021
 In teamverband bedenk je een AI-oplossing voor een casus in het hoger onderwijs. Stel een team samen van docenten, studenten en andere geïnteresseerden (6-8 personen) en meld je aan! De Hackathon wordt georganiseerd in samenwerking met de SURF SIG AI in Education en de Nederlandse AI Coalitie.
  
@@ -79,4 +77,12 @@ import numpy as np
 https://userinfo.surfsara.nl/systems/lisa/user-guide/connecting-and-transferring-data#sftp
 
 allows for large file transfer 
+
+
+# [6] ML CASE STUDIES
+
+## Image Classification in 10 Minutes with MNIST Dataset
+Using Convolutional Neural Networks to Classify Handwritten Digits with TensorFlow and Keras | Supervised Deep Learning
+
+https://towardsdatascience.com/image-classification-in-10-minutes-with-mnist-dataset-54c35b77a38d
 
