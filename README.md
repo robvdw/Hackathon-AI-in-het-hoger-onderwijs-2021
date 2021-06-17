@@ -86,3 +86,6 @@ Using Convolutional Neural Networks to Classify Handwritten Digits with TensorFl
 
 https://towardsdatascience.com/image-classification-in-10-minutes-with-mnist-dataset-54c35b77a38d
 
+## A Simple Guide On Using BERT for Binary Text Classification.
+
+https://medium.com/swlh/a-simple-guide-on-using-bert-for-text-classification-bbf041ac8d04
